@@ -1,4 +1,9 @@
-def phrase():
-    print("fly in the True_phrase")\
-
-phrase()
+удалить ветку 
+git branch -d "название" 
+ 
+ 
+создать ветку 
+git branch "название" 
+ 
+перейти на другую ветку 
+git checkout "название ветки"
